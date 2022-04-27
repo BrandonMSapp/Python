@@ -1,0 +1,1 @@
+Program to solve an Npuzzle given a problem state and goal states. Breadthfirst, depthfirst, and manhattan distance strategies are used to solve the problem.
