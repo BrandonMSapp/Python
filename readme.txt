@@ -1,1 +1,0 @@
-Python program that strips a file of comments, and checks if it is balanced, meaning that all opening parentheses and braces have a corresponding closing one
